@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MySQL**
 
-- 👨‍💻 All of my projects are available at [my portifolio](akrayas.github.io)
+- 👨‍💻 All of my projects are available at [my portifolio](AkrayAS.github.io)
 
 - ⚡ Fun fact: **I love 🍕.**
 
