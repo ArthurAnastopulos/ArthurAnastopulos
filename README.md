@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **-----**
 
-- 🌱 I’m currently learning **MySQL**
+- 🌱 I’m currently learning **MySQL(Practice) & Docker(Starting)**
 
 - 👨‍💻 All of my projects are available at [my portifolio](https://akrayas.github.io/)
 
