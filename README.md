@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MySQL(Practice) & Docker(Starting)**
 
-- 👨‍💻 All of my projects are available at [my portifolio](https://akrayas.github.io/)
+- 👨‍💻 All of my projects are available at [my portifolio](https://arthuranastopulos.github.io/)
 
 - ⚡ Fun fact: **I love 🍕.**
 
