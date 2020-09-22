@@ -36,6 +36,5 @@
 </p>
 
 <p>
-<img align="left" src="https://media2.giphy.com/media/H83F4AfL798AmtKXIL/giphy.gif" width="100" height="100">
 <img align="right" src="https://media0.giphy.com/media/24FMAgyVriTaslFdBg/giphy.gif" width="100" height="100">
 </p>
