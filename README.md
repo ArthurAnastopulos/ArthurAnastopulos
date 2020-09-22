@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [my portifolio](https://arthuranastopulos.github.io/)
 
-- ⚡ Fun fact: **I love 🍕.**
+- ⚡ Fun fact: **I love 🍕, <img align="center" src="https://media3.giphy.com/media/XZUnNVhfG5yMK1T07I/giphy.gif" width="50" height="50"> & play some 🎮**
 
 ----
 <h5 align="left">Skills:</h5>  
