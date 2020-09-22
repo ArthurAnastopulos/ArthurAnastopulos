@@ -2,7 +2,7 @@
 , I'm Arthur Anastopulos dos Santos</h1>
 <h3 align="center">An Undergraduate in Telecomunication Engeneering, who is passionate about Security, Computer Networks and new Technologies.</h3>
 
-- 🔭 I’m currently working on **-----**
+- 🔭 I’m currently <img align="center" src="https://media4.giphy.com/media/h1zoxLAylyAwFNSScT/giphy.gif" width="50" height="50"> on **-----**
 
 - 🌱 I’m currently learning **MySQL(Practice) & Docker(Starting)**
 
