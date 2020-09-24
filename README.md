@@ -11,9 +11,13 @@
 - ⚡ Fun fact: **I love 🍕, <img align="center" src="https://media3.giphy.com/media/XZUnNVhfG5yMK1T07I/giphy.gif" width="50" height="50"> & play some 🎮.**
 
 ----
-<h5 align="left">Skills:</h5>  
+<h5 align="left">Main Skills:</h5>  
   
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></p>
+<p align="left"><img src="https://devicon.dev/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicon.dev/devicon.git/icons/gradle/gradle-plain-wordmark.svg" alt="gradle" width="40" height="40"/> <img src="https://devicon.dev/devicon.git/icons/intellij/intellij-original-wordmark.svg" alt="intellij" width="40" height="40"/> <img src="https://devicon.dev/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://devicon.dev/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </p>
+
+<h5 align="left">Other Skills:</h5>
+
+<p align="left"><img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> <img src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> <img src="https://devicon.dev/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/> <img src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/> </p>
 
 ----
 
