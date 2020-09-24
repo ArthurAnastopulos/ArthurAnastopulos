@@ -13,7 +13,7 @@
 ----
 <h5 align="left">Main Skills:</h5>  
   
-<p align="left"><img src="https://devicon.dev/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicon.dev/devicon.git/icons/gradle/gradle-plain-wordmark.svg" alt="gradle" width="40" height="40"/> <img src="https://devicon.dev/devicon.git/icons/intellij/intellij-original-wordmark.svg" alt="intellij" width="40" height="40"/> <img src="https://devicon.dev/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://devicon.dev/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </p>
+<p align="left"><img src="https://devicon.dev/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicon.dev/devicon.git/icons/gradle/gradle-plain.svg" alt="gradle" width="40" height="40"/> <img src="https://devicon.dev/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://devicon.dev/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </p>
 
 <h5 align="left">Other Skills:</h5>
 
