@@ -38,6 +38,6 @@
 <a href="https://www.linkedin.com/in/arthur-anastopulos-6171b01a6/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/arthur-anastopulos-6171b01a6/" height="30" width="30" /></a>
 </p>
 
-<p>
-<img align="right" src="https://media0.giphy.com/media/24FMAgyVriTaslFdBg/giphy.gif" width="100" height="100">
+<p align="center">
+<img align="center" src="https://tenor.com/view/computer-hacker-fallout-okay-gif-15448882" width="100" height="100"> 
 </p>
