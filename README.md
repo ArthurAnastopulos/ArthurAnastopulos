@@ -39,5 +39,5 @@
 </p>
 
 <p>
-<img align="center" src="https://media1.tenor.com/images/deeb3064b5cf12a6efc7571a24c911b9/tenor.gif?itemid=15448882" width="100" height="100"> 
+<img align="center" src="https://static.wikia.nocookie.net/fallout_gamepedia/images/e/e2/Hacker.png/revision/latest?cb=20160109233424" width="125" height="125"> 
 </p>
