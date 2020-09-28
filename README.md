@@ -1,12 +1,11 @@
-<h1 align="center">Hi <img align="center" src="https://media1.giphy.com/media/RiE7uJn2OVKyebTJLM/giphy.gif" width="50" height="50">
-, I'm Arthur Anastopulos dos Santos</h1>
+<h1 align="center">Hello 🌎 ! I'm Arthur Anastopulos dos Santos</h1>
 <h3 align="center">An Undergraduate in Telecomunication Engeneering, who is passionate about Security, Computer Networks and new Technologies.</h3>
 
 - 🔭 I’m currently <img align="center" src="https://media4.giphy.com/media/h1zoxLAylyAwFNSScT/giphy.gif" width="75" height="75"> on **-----**
 
 - 🌱 I’m currently learning **MySQL(Practice) & Docker(Starting)**
 
-- 👨‍💻 All of my projects are available at [my portifolio](https://arthuranastopulos.github.io/)
+- 👨‍💻 All of my projects are available at [my portifolio](https://arthuranastopulos.github.io/) <img align="center" src="https://media1.giphy.com/media/RiE7uJn2OVKyebTJLM/giphy.gif" width="50" height="50">.
 
 - ⚡ Fun fact: **I love 🍕, <img align="center" src="https://media3.giphy.com/media/XZUnNVhfG5yMK1T07I/giphy.gif" width="50" height="50"> & play some 🎮.**
 
