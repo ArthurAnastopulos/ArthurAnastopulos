@@ -27,7 +27,7 @@
 | Course | Place | Hours |
 | :---: | :---: | :---: |
 | Matlab - IFSC | São José-SC | 66 Hr |
-| The Web Developer Bootcamp | Udemy | 47Hr |
+| The Web Developer Bootcamp | Udemy | 64Hr |
 | Docker and Kubernetes: The Complete Guide | Udemy | 22 Hr |
 
 </details>
