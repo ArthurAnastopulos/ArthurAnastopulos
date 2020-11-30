@@ -11,8 +11,6 @@
 
 ---
 
----
-
 <!--START_SECTION:table-->
 <details>
 <summary>📚 Courses List</summary>
