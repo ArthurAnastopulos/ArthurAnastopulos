@@ -3,36 +3,32 @@
 
 - 🔭 I’m currently <img align="center" src="https://media4.giphy.com/media/h1zoxLAylyAwFNSScT/giphy.gif" width="75" height="75"> on **-----**
 
-- 🌱 I’m currently learning **MySQL(Practice) & Docker(Starting)**
+- 🌱 I’m currently learning **🌐 Web Development & 🐳 Docker**
 
 - 👨‍💻 All of my projects are available at [my portifolio](https://arthuranastopulos.github.io/) <img align="center" src="https://media1.giphy.com/media/RiE7uJn2OVKyebTJLM/giphy.gif" width="50" height="50">.
 
 - ⚡ Fun fact: **I love 🍕, <img align="center" src="https://media3.giphy.com/media/XZUnNVhfG5yMK1T07I/giphy.gif" width="50" height="50"> & play some 🎮.**
 
-----
-<h5 align="left">Main Skills:</h5>  
-  
-<p align="left"><img src="https://devicon.dev/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicon.dev/devicon.git/icons/gradle/gradle-plain.svg" alt="gradle" width="40" height="40"/> <img src="https://devicon.dev/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://devicon.dev/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" alt="git" width="40" height="40"/> <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" alt="githu" width="40" height="40"/> <img src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </p>
+---
 
-<h5 align="left">Other Skills:</h5>
-
-<p align="left"><img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> <img src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> <img src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicon.dev/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" alt="maven" width="40" height="40"/> <img src="https://devicon.dev/devicon.git/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/> </p>
-
-----
+---
 
 <!--START_SECTION:table-->
 <details>
-<summary>Courses List</summary>
+<summary>📚 Courses List</summary>
 
 | Course | Place | Hours |
 | :---: | :---: | :---: |
 | Matlab - IFSC | São José-SC | 66 Hr |
-| The Web Developer Bootcamp | Udemy | 64Hr |
-| Docker and Kubernetes: The Complete Guide | Udemy | 22 Hr |
+| [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/) | Udemy | 64Hr |
+| [Docker and Kubernetes: The Complete Guide](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/) | Udemy | 22 Hr |
+| [Spring & Hibernate for Beginners (includes Spring Boot)](https://www.udemy.com/course/spring-hibernate-tutorial/) | Udemy | 41 Hr |
+| [The Advanced Web Developer Bootcamp](https://www.udemy.com/course/the-advanced-web-developer-bootcamp/) | Udemy | 34 Hr |
 
 </details>
 
-----
+---
+
 <p align="center">
 <a href="https://twitter.com/arntpls" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/arntpls" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/arthur-anastopulos-6171b01a6/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/arthur-anastopulos-6171b01a6/" height="30" width="30" /></a>
