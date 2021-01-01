@@ -1,15 +1,15 @@
 <h1 align="center">Hello 🌎 ❗️❕ I'm Arthur Anastopulos dos Santos ❗️❕❗️❕ <img align="center" src="https://media.giphy.com/media/NDqBIAjtA1Z72/giphy.gif" width="75" height="75"> </h1>
 <h3 align="center">Promoting intellectual and personal growth with <s>🍪Full Snack</s> 🚀Full stack Development.</h3>
 
-- 🔭 I’m currently <img align="center" src="https://media4.giphy.com/media/h1zoxLAylyAwFNSScT/giphy.gif" width="75" height="75"> on on something cool 😉.
+- 🔭 I’m currently <img align="center" src="https://media4.giphy.com/media/h1zoxLAylyAwFNSScT/giphy.gif" width="75" height="75"> on something cool 😉.
 
 - 🌱 I’m currently learning **🌐 Web Development & 🐳 Docker**
 
 - 👨‍💻 All of my projects are available at [my portifolio](https://arthuranastopulos.github.io/) <img align="center" src="https://media1.giphy.com/media/RiE7uJn2OVKyebTJLM/giphy.gif" width="50" height="50">.
 
-- 📝[Resume](https://arthuranastopulos.github.io/)
+- 📝 [Resume](https://arthuranastopulos.github.io/)
 
-- ⚡ Fun fact: **I love 🍕, <img align="center" src="https://media3.giphy.com/media/XZUnNVhfG5yMK1T07I/giphy.gif" width="50" height="50"> & play some 🎮.**
+- ⚡ Fun fact: **I love 🍕, <img align="center" src="https://media3.giphy.com/media/XZUnNVhfG5yMK1T07I/giphy.gif" width="50" height="50"> & 🎮 GameDev Stuff.**
 
 ---
 
