@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [my portifolio](https://arthuranastopulos.github.io/) <img align="center" src="https://media1.giphy.com/media/RiE7uJn2OVKyebTJLM/giphy.gif" width="50" height="50">.
 
-- 📝 [Resume](https://drive.google.com/file/d/1ouCiB-Kfve1Zh348cXpU2IijW_JUWcR4/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/1CYhxoQq1ioUKKpyV9VHQK_kNg0QuEnOG/view?usp=sharing)
 
 - ⚡ Fun fact: **I love 🍕, <img align="center" src="https://media3.giphy.com/media/XZUnNVhfG5yMK1T07I/giphy.gif" width="50" height="50"> & 🎮 GameDev Stuff.**
 
