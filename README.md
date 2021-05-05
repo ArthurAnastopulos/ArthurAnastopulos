@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently <img align="center" src="https://media4.giphy.com/media/h1zoxLAylyAwFNSScT/giphy.gif" width="75" height="75"> on something cool 😉.
 
-- 🌱 I’m currently learning **🌐 Web Development & 🐳 Docker**
+- 🌱 I’m currently learning **🌐 Web Development & 🗃 MySQL**
 
 - 👨‍💻 All of my projects are available at [my portifolio](https://arthuranastopulos.github.io/) <img align="center" src="https://media1.giphy.com/media/RiE7uJn2OVKyebTJLM/giphy.gif" width="50" height="50">.
 
