@@ -1,4 +1,4 @@
-<h1 align="center">Hello 🌎 ❗️❕ I'm Arthur Anastopulos dos Santos ❗️❕❗️❕ <img align="center" src="https://media.giphy.com/media/NDqBIAjtA1Z72/giphy.gif" width="75" height="75"> </h1>
+<h1 align="center">Hello 🌎 ❗️❕ I'm Arthur Anastopulos dos Santos ❗️❕❗️❕ </h1>
 <h3 align="center">Promoting intellectual and personal growth with <s>🍪Full Snack</s> 🚀Full stack Development.</h3>
 
 - 🔭 I’m currently <img align="center" src="https://media4.giphy.com/media/h1zoxLAylyAwFNSScT/giphy.gif" width="75" height="75"> on something cool 😉.
