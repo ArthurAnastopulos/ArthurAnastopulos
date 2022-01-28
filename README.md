@@ -3,33 +3,17 @@
 
 - 🔭 I’m currently <img align="center" src="https://media4.giphy.com/media/h1zoxLAylyAwFNSScT/giphy.gif" width="75" height="75"> on at Khomp 😉.
 
-- 🌱 I’m currently learning **🌐 Web Development & 🗃 MySQL**
+- 🌱 I’m currently learning ** 🌐 Web Development **
 
 - 👨‍💻 All of my projects are available at [my portifolio](https://arthuranastopulos.github.io/) <img align="center" src="https://media1.giphy.com/media/RiE7uJn2OVKyebTJLM/giphy.gif" width="50" height="50">.
 
-- 📝 [Resume](https://drive.google.com/file/d/13QOJ3qLkvXPprCfTiVRtww61cZy5-Gwj/view?usp=sharing)
-
-- ⚡ Fun fact: **I love 🍕, <img align="center" src="https://media3.giphy.com/media/XZUnNVhfG5yMK1T07I/giphy.gif" width="50" height="50"> & 🎮 GameDev Stuff.**
+- ⚡ Fun fact: **I love 🍕, <img align="center" src="https://media3.giphy.com/media/XZUnNVhfG5yMK1T07I/giphy.gif" width="50" height="50"> & 🎮 some Nintendo Games.**
 
 ---
 
-<details>
-<summary>🧰 Tools</summary>
+<h3 align="left"> 🧰 Technology Stack </h3>
 
-</details>
 
-<details>
-<summary>📚 Courses List</summary>
-
-| Course | Place | Hours |
-| :---: | :---: | :---: |
-| Matlab - IFSC | São José-SC | 66 Hr |
-| [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/) | Udemy | 64Hr |
-| [Docker and Kubernetes: The Complete Guide](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/) | Udemy | 22 Hr |
-| [Spring & Hibernate for Beginners (includes Spring Boot)](https://www.udemy.com/course/spring-hibernate-tutorial/) | Udemy | 41 Hr |
-| [The Advanced Web Developer Bootcamp](https://www.udemy.com/course/the-advanced-web-developer-bootcamp/) | Udemy | 34 Hr |
-
-</details>
 
 ---
 
